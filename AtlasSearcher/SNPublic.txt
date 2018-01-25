@@ -1,0 +1,92 @@
+{"frames": {
+
+"hepai.png":
+{
+	"frame": {"x":1,"y":1,"w":235,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":129},
+	"sourceSize": {"w":235,"h":129}
+},
+"icon_hepai.png":
+{
+	"frame": {"x":237,"y":1,"w":125,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":129},
+	"sourceSize": {"w":125,"h":129}
+},
+"icon_suin.png":
+{
+	"frame": {"x":363,"y":1,"w":122,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":112},
+	"sourceSize": {"w":124,"h":112}
+},
+"icon_xi.png":
+{
+	"frame": {"x":1,"y":131,"w":125,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":129},
+	"sourceSize": {"w":125,"h":129}
+},
+"iconsnmj.png":
+{
+	"frame": {"x":127,"y":131,"w":317,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":317,"h":117},
+	"sourceSize": {"w":317,"h":117}
+},
+"ting.png":
+{
+	"frame": {"x":1,"y":261,"w":125,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":129},
+	"sourceSize": {"w":125,"h":129}
+},
+"word_btyizi.png":
+{
+	"frame": {"x":127,"y":261,"w":117,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":39},
+	"sourceSize": {"w":117,"h":39}
+},
+"word_tyi.png":
+{
+	"frame": {"x":245,"y":261,"w":75,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":39},
+	"sourceSize": {"w":75,"h":39}
+},
+"word_xi.png":
+{
+	"frame": {"x":321,"y":261,"w":40,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":2,"w":40,"h":38},
+	"sourceSize": {"w":76,"h":40}
+},
+"xipai.png":
+{
+	"frame": {"x":362,"y":261,"w":121,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":121,"h":115},
+	"sourceSize": {"w":121,"h":129}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "SNPublic.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dd6a8c1af051a377972eaec8e7e94543$"
+}
+}

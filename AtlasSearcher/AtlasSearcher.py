@@ -36,7 +36,7 @@ def search_info(name_arr , src_oldpath , src_newpath):
 
 if __name__ == "__main__":
 
-    flie_object = open("test.txt")
+    flie_object = open("SNPublic.txt")
     file_context = flie_object.read()
     arr = read_Atals(file_context)
     search_info(arr , "F:/COMPANY+/MJ/art/" , "F:/COMPANY+/MJ/abc/")
