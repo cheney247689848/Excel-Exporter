@@ -27,7 +27,7 @@ def search_info(name_arr , src_oldpath , src_newpath):
                         new_path = os.path.join(src_newpath,f)
                         if find_num > 0:
                             
-                            ver = "    -   " + str(find_num) + "   ("+ old_path.replace("/", "-").replace("\\", "-").replace(".png", "").replace(":", "")
+                            ver = "    -   " + str(find_num) + "   ("+ old_path.replace("/", "-").replace("\\", "-").replace(".png", "").replace(":", "") + ")"
                             new_path = new_path.replace("." , ver + ".")
                         find_num += 1
                         # print (old_path)
