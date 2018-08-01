@@ -25,19 +25,20 @@ def search_info(name_arr , src_oldpath , src_newpath):
                     if str(f) == str(item):
                         old_path = os.path.join(dirpath,f)
                         new_path = os.path.join(src_newpath,f)
-                        if find_num > 0:
-                            
-                            ver = "    -   " + str(find_num) + "   ("+ old_path.replace("/", "-").replace("\\", "-").replace(".png", "").replace(":", "") + ")"
-                            new_path = new_path.replace("." , ver + ".")
+                        # if find_num > 0:
+                        ver = "    -   " + str(find_num) + "   ("+ old_path.replace("/", "-").replace("\\", "-").replace(".png", "").replace(":", "") + ")"
+                        new_path = new_path.replace("." , ver + ".")
                         find_num += 1
                         # print (old_path)
                         print (new_path)
                         copy_file(str(old_path),str(new_path))
+        if find_num == 0:
+            print ("no find the sprite name - " + str(item))
 
 if __name__ == "__main__":
 
-    flie_object = open("SNPublic.txt")
+    flie_object = open("public2.txt")
     file_context = flie_object.read()
     arr = read_Atals(file_context)
-    search_info(arr , "F:/COMPANY+/MJ/art/" , "F:/COMPANY+/MJ/abc/")
+    search_info(arr , "F:/COMPANY+/MJ/art/badawan_a/" , "F:/COMPANY+/MJ/abc/")
     print ("search finsh")
