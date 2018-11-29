@@ -1,0 +1,30 @@
+{
+    "data":[
+      {"nId":1201,"sName":"地板01","icon":"DECO_15_00","atlas":"floor","detail":"看起来很漂亮","cost":100,"envir":2},
+      {"nId":1202,"sName":"地板02","icon":"DECO_15_03","atlas":"floor","detail":"看起来很漂亮","cost":200,"envir":3},
+      {"nId":1203,"sName":"地板03","icon":"DECO_15_04","atlas":"floor","detail":"看起来很漂亮","cost":300,"envir":4},
+      {"nId":1204,"sName":"地板04","icon":"DECO_15_05","atlas":"floor","detail":"看起来很漂亮","cost":400,"envir":5},
+      {"nId":1205,"sName":"地板05","icon":"DECO_15_06","atlas":"floor","detail":"看起来很漂亮","cost":500,"envir":6},
+      {"nId":1206,"sName":"地板06","icon":"DECO_15_07","atlas":"floor","detail":"看起来很漂亮","cost":600,"envir":7},
+      {"nId":1207,"sName":"地板07","icon":"DECO_15_08","atlas":"floor","detail":"看起来很漂亮","cost":700,"envir":8},
+      {"nId":1208,"sName":"地板08","icon":"DECO_15_11","atlas":"floor","detail":"看起来很漂亮","cost":800,"envir":9},
+      {"nId":1209,"sName":"地板09","icon":"DECO_15_13","atlas":"floor","detail":"看起来很漂亮","cost":900,"envir":10},
+      {"nId":1210,"sName":"地板10","icon":"DECO_15_15","atlas":"floor","detail":"看起来很漂亮","cost":1000,"envir":11},
+      {"nId":1211,"sName":"地板11","icon":"DECO_15_16","atlas":"floor","detail":"看起来很漂亮","cost":1100,"envir":12},
+      {"nId":1212,"sName":"地板12","icon":"DECO_15_17","atlas":"floor","detail":"看起来很漂亮","cost":1200,"envir":13},
+      {"nId":1213,"sName":"地板13","icon":"DECO_15_18","atlas":"floor","detail":"看起来很漂亮","cost":1300,"envir":14},
+      {"nId":1214,"sName":"地板14","icon":"DECO_15_20","atlas":"floor","detail":"看起来很漂亮","cost":1400,"envir":15},
+      {"nId":1215,"sName":"地板15","icon":"DECO_15_21","atlas":"floor","detail":"看起来很漂亮","cost":1500,"envir":16},
+      {"nId":1216,"sName":"地板16","icon":"DECO_15_22","atlas":"floor","detail":"看起来很漂亮","cost":1600,"envir":17},
+      {"nId":1217,"sName":"地板17","icon":"DECO_15_23","atlas":"floor","detail":"看起来很漂亮","cost":1700,"envir":18},
+      {"nId":1218,"sName":"地板18","icon":"DECO_15_24","atlas":"floor","detail":"看起来很漂亮","cost":1800,"envir":19},
+      {"nId":1219,"sName":"地板19","icon":"DECO_15_25","atlas":"floor","detail":"看起来很漂亮","cost":1900,"envir":20},
+      {"nId":1220,"sName":"地板20","icon":"DECO_15_26","atlas":"floor","detail":"看起来很漂亮","cost":2000,"envir":21},
+      {"nId":1221,"sName":"地板21","icon":"DECO_15_33","atlas":"floor","detail":"看起来很漂亮","cost":2100,"envir":22},
+      {"nId":1222,"sName":"地板22","icon":"DECO_15_34","atlas":"floor","detail":"看起来很漂亮","cost":2200,"envir":23},
+      {"nId":1223,"sName":"地板23","icon":"DECO_15_35","atlas":"floor","detail":"看起来很漂亮","cost":2300,"envir":24},
+      {"nId":1224,"sName":"地板24","icon":"DECO_15_36","atlas":"floor","detail":"看起来很漂亮","cost":2400,"envir":25},
+      {"nId":1225,"sName":"地板25","icon":"DECO_15_37","atlas":"floor","detail":"看起来很漂亮","cost":2500,"envir":26},
+      {"nId":1226,"sName":"地板26","icon":"DECO_15_38","atlas":"floor","detail":"看起来很漂亮","cost":2600,"envir":27}
+   ]
+}

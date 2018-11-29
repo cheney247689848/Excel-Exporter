@@ -1,0 +1,32 @@
+{
+    "data":[
+      {"nId":1001,"sName":"桌子01","icon":"DECO_11_00","chairIcon":"DECO_10_00_0","atlas":"furn","detail":"看起来很漂亮","cost":100,"envir":2},
+      {"nId":1002,"sName":"桌子02","icon":"DECO_11_01","chairIcon":"DECO_10_01_0","atlas":"furn","detail":"看起来很漂亮","cost":700,"envir":3},
+      {"nId":1003,"sName":"桌子03","icon":"DECO_11_40","chairIcon":"DECO_10_32_0","atlas":"furn","detail":"看起来很漂亮","cost":1300,"envir":4},
+      {"nId":1004,"sName":"桌子04","icon":"DECO_11_41","chairIcon":"DECO_10_36_0","atlas":"furn","detail":"看起来很漂亮","cost":1900,"envir":5},
+      {"nId":1005,"sName":"桌子05","icon":"DECO_11_33","chairIcon":"DECO_10_09_0","atlas":"furn","detail":"看起来很漂亮","cost":2500,"envir":6},
+      {"nId":1006,"sName":"桌子06","icon":"DECO_11_32","chairIcon":"DECO_10_08_0","atlas":"furn","detail":"看起来很漂亮","cost":3100,"envir":7},
+      {"nId":1007,"sName":"桌子07","icon":"DECO_11_02","chairIcon":"DECO_10_23_0","atlas":"furn","detail":"看起来很漂亮","cost":3700,"envir":8},
+      {"nId":1008,"sName":"桌子08","icon":"DECO_11_03","chairIcon":"DECO_10_22_0","atlas":"furn","detail":"看起来很漂亮","cost":4300,"envir":9},
+      {"nId":1009,"sName":"桌子09","icon":"DECO_11_04","chairIcon":"DECO_10_17_0","atlas":"furn","detail":"看起来很漂亮","cost":4900,"envir":10},
+      {"nId":1010,"sName":"桌子10","icon":"DECO_11_05","chairIcon":"DECO_10_16_0","atlas":"furn","detail":"看起来很漂亮","cost":5500,"envir":11},
+      {"nId":1011,"sName":"桌子11","icon":"DECO_11_06","chairIcon":"DECO_10_13_0","atlas":"furn","detail":"看起来很漂亮","cost":6100,"envir":12},
+      {"nId":1012,"sName":"桌子12","icon":"DECO_11_07","chairIcon":"DECO_10_12_0","atlas":"furn","detail":"看起来很漂亮","cost":6700,"envir":13},
+      {"nId":1013,"sName":"桌子13","icon":"DECO_11_10","chairIcon":"DECO_10_21_0","atlas":"furn","detail":"看起来很漂亮","cost":7300,"envir":14},
+      {"nId":1014,"sName":"桌子14","icon":"DECO_11_11","chairIcon":"DECO_10_20_0","atlas":"furn","detail":"看起来很漂亮","cost":7900,"envir":15},
+      {"nId":1015,"sName":"桌子15","icon":"DECO_11_14","chairIcon":"DECO_10_25_0","atlas":"furn","detail":"看起来很漂亮","cost":8500,"envir":16},
+      {"nId":1016,"sName":"桌子16","icon":"DECO_11_15","chairIcon":"DECO_10_24_0","atlas":"furn","detail":"看起来很漂亮","cost":9100,"envir":17},
+      {"nId":1017,"sName":"桌子17","icon":"DECO_11_25","chairIcon":"DECO_10_27_0","atlas":"furn","detail":"看起来很漂亮","cost":9700,"envir":18},
+      {"nId":1018,"sName":"桌子18","icon":"DECO_11_26","chairIcon":"DECO_10_26_0","atlas":"furn","detail":"看起来很漂亮","cost":10300,"envir":19},
+      {"nId":1019,"sName":"桌子19","icon":"DECO_11_36","chairIcon":"DECO_10_01_0","atlas":"furn","detail":"看起来很漂亮","cost":10900,"envir":20},
+      {"nId":1020,"sName":"桌子20","icon":"DECO_11_37","chairIcon":"DECO_10_01_0","atlas":"furn","detail":"看起来很漂亮","cost":11500,"envir":21},
+      {"nId":1021,"sName":"桌子21","icon":"DECO_11_12","chairIcon":"DECO_10_06_0","atlas":"furn","detail":"看起来很漂亮","cost":12100,"envir":22},
+      {"nId":1022,"sName":"桌子22","icon":"DECO_11_13","chairIcon":"DECO_10_07_0","atlas":"furn","detail":"看起来很漂亮","cost":12700,"envir":23},
+      {"nId":1023,"sName":"桌子23","icon":"DECO_11_21","chairIcon":"DECO_10_44_0","atlas":"furn","detail":"看起来很漂亮","cost":13300,"envir":24},
+      {"nId":1024,"sName":"桌子24","icon":"DECO_11_22","chairIcon":"DECO_10_38_0","atlas":"furn","detail":"看起来很漂亮","cost":13900,"envir":25},
+      {"nId":1025,"sName":"桌子25","icon":"DECO_11_48","chairIcon":"DECO_10_47_0","atlas":"furn","detail":"看起来很漂亮","cost":14500,"envir":26},
+      {"nId":1026,"sName":"桌子26","icon":"DECO_11_49","chairIcon":"DECO_10_48_0","atlas":"furn","detail":"看起来很漂亮","cost":15100,"envir":27},
+      {"nId":1027,"sName":"桌子27","icon":"DECO_11_50","chairIcon":"DECO_10_49_0","atlas":"furn","detail":"看起来很漂亮","cost":15700,"envir":28},
+      {"nId":1028,"sName":"桌子28","icon":"DECO_11_100","chairIcon":"DECO_10_100_0","atlas":"furn","detail":"看起来很漂亮","cost":16300,"envir":29}
+   ]
+}

@@ -1,0 +1,14 @@
+{
+    "data":[
+      {"nId":4001,"sName":"货架","detail":"存贮着日常需要用到的食材","icon":"kitchen-4001","atlas":"kitchen","cost":600},
+      {"nId":4002,"sName":"冰箱","detail":"存储着需要冰鲜的食材","icon":"kitchen-4002","atlas":"kitchen","cost":1200},
+      {"nId":4003,"sName":"料理台","detail":"加工食材","icon":"kitchen-4003","atlas":"kitchen","cost":1800},
+      {"nId":4004,"sName":"汤锅","detail":"一大锅的秘制汤料","icon":"kitchen-4004","atlas":"kitchen","cost":3200},
+      {"nId":4005,"sName":"燃气炉","detail":"加热食物","icon":"kitchen-4005","atlas":"kitchen","cost":3800},
+      {"nId":4006,"sName":"工作台","detail":"提升与开发菜式","icon":"kitchen-4006","atlas":"kitchen","cost":1000},
+      {"nId":4007,"sName":"烤箱","detail":"烘焙食物","icon":"kitchen-4007","atlas":"kitchen","cost":3200},
+      {"nId":4008,"sName":"锅台","detail":"炒菜的最高境界","icon":"kitchen-4008","atlas":"kitchen","cost":1600},
+      {"nId":4009,"sName":"菜台","detail":"存放菜式的地方","icon":"kitchen-4009","atlas":"kitchen","cost":2500},
+      {"nId":4010,"sName":"洗碗柜","detail":"清洁度上升","icon":"kitchen-4010","atlas":"kitchen","cost":2200}
+   ]
+}
