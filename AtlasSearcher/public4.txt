@@ -1,0 +1,60 @@
+{"frames": {
+
+"button_fxdwi_a.png":
+{
+	"frame": {"x":180,"y":2,"w":176,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":61},
+	"sourceSize": {"w":176,"h":61}
+},
+"button_fxpyq_a.png":
+{
+	"frame": {"x":2,"y":2,"w":176,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":61},
+	"sourceSize": {"w":176,"h":61}
+},
+"icon_yaoqingma.png":
+{
+	"frame": {"x":358,"y":52,"w":117,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":125},
+	"sourceSize": {"w":117,"h":125}
+},
+"title_fenxiang.png":
+{
+	"frame": {"x":2,"y":65,"w":96,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":48},
+	"sourceSize": {"w":96,"h":48}
+},
+"title_yaoqingma.png":
+{
+	"frame": {"x":358,"y":2,"w":145,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":48},
+	"sourceSize": {"w":145,"h":48}
+},
+"word_fuzhi.png":
+{
+	"frame": {"x":100,"y":65,"w":74,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":39},
+	"sourceSize": {"w":74,"h":39}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "public4.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:67b7c562ab7e44b90019660abfb718d3$"
+}
+}
