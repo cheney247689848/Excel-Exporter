@@ -1,0 +1,22 @@
+{
+    "data":[
+      {"nId":11001,"sName":"快煮1","icon":"","atlas":"","type":0,"lv":1,"speedAbility":0},
+      {"nId":11002,"sName":"快煮2","icon":"","atlas":"","type":0,"lv":2,"speedAbility":0},
+      {"nId":11003,"sName":"快煮3","icon":"","atlas":"","type":0,"lv":3,"speedAbility":0},
+      {"nId":11004,"sName":"快研1","icon":"","atlas":"","type":1,"lv":1,"speedAbility":0},
+      {"nId":11005,"sName":"快研2","icon":"","atlas":"","type":1,"lv":2,"speedAbility":0},
+      {"nId":11006,"sName":"快研3","icon":"","atlas":"","type":1,"lv":3,"speedAbility":0},
+      {"nId":11007,"sName":"快走1","icon":"","atlas":"","type":2,"lv":1,"speedAbility":0},
+      {"nId":11008,"sName":"快走2","icon":"","atlas":"","type":2,"lv":2,"speedAbility":0},
+      {"nId":11009,"sName":"快走3","icon":"","atlas":"","type":2,"lv":3,"speedAbility":0},
+      {"nId":11010,"sName":"高厨1","icon":"","atlas":"","type":3,"lv":1,"speedAbility":0},
+      {"nId":11011,"sName":"高厨2","icon":"","atlas":"","type":3,"lv":2,"speedAbility":0},
+      {"nId":11012,"sName":"高厨3","icon":"","atlas":"","type":3,"lv":3,"speedAbility":0},
+      {"nId":11013,"sName":"升级1","icon":"","atlas":"","type":4,"lv":1,"speedAbility":0},
+      {"nId":11014,"sName":"升级2","icon":"","atlas":"","type":4,"lv":2,"speedAbility":0},
+      {"nId":11015,"sName":"升级3","icon":"","atlas":"","type":4,"lv":3,"speedAbility":0},
+      {"nId":11016,"sName":"金钱1","icon":"","atlas":"","type":5,"lv":1,"speedAbility":0},
+      {"nId":11017,"sName":"金钱2","icon":"","atlas":"","type":5,"lv":2,"speedAbility":0},
+      {"nId":11018,"sName":"金钱3","icon":"","atlas":"","type":5,"lv":3,"speedAbility":0}
+   ]
+}
