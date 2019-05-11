@@ -7,7 +7,7 @@ def transfor(_str_type, _value):
     temp_value = _value
     if _str_type == "string":
         #temp_value = "\"" + temp_value.encode('utf-8') + "\""
-        temp_value = "\"" + temp_value + "\""
+        temp_value = "\"" + str(temp_value) + "\""
     elif _str_type == "int":
         if temp_value != "":
             temp_value = int(temp_value)
@@ -88,7 +88,7 @@ def exporttable(_table, _table_name):
     return 0
 
 if __name__ == "__main__":
-    excel_path = "../Excel"
+    excel_path = "Excel"
     for dirpath, dirs, files in os.walk(excel_path):
         for filename in files:  
             # print "file : " + filename

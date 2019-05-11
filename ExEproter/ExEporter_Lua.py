@@ -82,7 +82,7 @@ def exporttable(_table, _table_name):
     return 0
 
 if __name__ == "__main__":
-    excel_path = "./Excel"
+    excel_path = "Excel"
     for dirpath, dirs, files in os.walk(excel_path):
         for filename in files:  
             # print "file : " + filename
