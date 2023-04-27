@@ -1,4 +1,5 @@
 # encoding : utf-8      #设置编码方式
+import sys
 import xlrd
 import os
 
@@ -7,7 +8,7 @@ def transfor(_str_type, _value):
     temp_value = _value
     if _str_type == "string":
         #temp_value = "\"" + temp_value.encode('utf-8') + "\""
-        temp_value = "\"" + temp_value + "\""
+        temp_value = '\"%s\"'%(temp_value)
     elif _str_type == "int":
         if temp_value != "":
             temp_value = int(temp_value)
@@ -34,6 +35,7 @@ def exporttable(_table, _table_name):
     print ("输出 : %s      ncols = %d, nrows = %d" % (_table_name, ncols, nrows))
     strkey = _table.cell_value(0,0)
     strInfo = ""
+    errorInfo = "错误导出信息:\n"
     if strkey == "key2":
         #双键
         strInfo = _table_name + "{\r\n"
@@ -64,31 +66,18 @@ def exporttable(_table, _table_name):
                 t = _table.cell_value(1, j)
                 n = _table.cell_value(3, j)
                 v = _table.cell_value(i, j)
-                s = '{0} = {1}'.format(n, transfor(t, v))
-                if j == ncols - 1:
-                    strInfo = strInfo + s
-                else:
-                    strInfo = strInfo + s + ","
+                try:
+                    s = '{0} = {1}'.format(n, transfor(t, v))
+                    if j == ncols - 1:
+                        strInfo = strInfo + s
+                    else:
+                        strInfo = strInfo + s + ","
+                except:
+                    errorInfo = errorInfo + '行:%d , 列:%d\n'%(i + 1 , j + 1)
             strInfo = strInfo + "},\r\n"
         strInfo = strInfo + "}"
         print (strInfo)
+        print (errorInfo)
+    return strInfo
 
-    #表导出 ----------------------------------------------------
-    lua_name = "lua\\"+ _table_name + ".lua"
-    fo = open(lua_name, "wb")
-    fo.write(strInfo.encode('utf-8'))
-    fo.close(); 
-    print ("export  " + lua_name + "  finsh......")
-    return 0
 
-if __name__ == "__main__":
-    excel_path = "Excel"
-    for dirpath, dirs, files in os.walk(excel_path):
-        for filename in files:  
-            # print "file : " + filename
-            if filename.find("~$") == -1: #排除缓存文件
-                excel = xlrd.open_workbook(excel_path + "/" +  filename)
-                for i in range(len(excel.sheets())):
-                    table = excel.sheets()[i]
-                    if table.name.find("Sheet") == -1: #排除无用表
-                        exporttable(table, table.name)

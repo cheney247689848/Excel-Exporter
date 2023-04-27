@@ -1,3 +1,6 @@
 .idea/
 .vscode/
 venv
+
+excel_export/__pycache__
+*.pyc
